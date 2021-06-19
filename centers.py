@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 font = cv2.FONT_HERSHEY_SIMPLEX
-image = cv2.imread("C:/users/brand/onedrive/escritorio/Proof15.png")
+image = cv2.imread("PATH")
 
 #################################################################### Nuve de puntos ####################################################################################
 #image = cv2.GaussianBlur(image,(9,9),1)
