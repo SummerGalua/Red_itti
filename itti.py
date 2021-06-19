@@ -5,7 +5,7 @@ from numpy.core.fromnumeric import resize, shape
 
 
 #INPUT
-image = cv2.imread("C:/users/brand/onedrive/escritorio/ittimagen/itti.png")
+image = cv2.imread("PATH")
 
 #Escala de grises
 
